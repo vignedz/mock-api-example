@@ -4,7 +4,7 @@
   "description": "Example of Mock API created in \"Building a JavaScript Development Environment\" on Pluralsight",
   "main": "index.js",
   "engines": {
-    "node": "8.11.1"
+    "node": "18.12.1"
   },
   "scripts": {
     "prestart": "node buildScripts/generateMockData",
